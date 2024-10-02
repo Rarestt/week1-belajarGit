@@ -1,2 +1,4 @@
 tes baris pertama
 baris kedua harus ada
+fitur A
+fitur B
