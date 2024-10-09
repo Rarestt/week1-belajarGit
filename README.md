@@ -1,1 +1,1 @@
-branch main ini berisi tugas latihan WEEK 1. Adapun untuk tugas di week lain dapat diakses dari masing-masing branch-nya yang berbeda.
+Branch main ini berisi tugas latihan WEEK 1. Adapun untuk tugas di week lain dapat diakses dari masing-masing branch yang berbeda.
